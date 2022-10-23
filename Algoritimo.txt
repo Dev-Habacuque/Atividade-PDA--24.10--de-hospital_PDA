@@ -1,0 +1,30 @@
+algoritmo "hospital_pda"
+//  
+//  
+var
+grautree,grautwo,grauone,grupop,atendimento,pulseiran,pulseirap : caracter
+
+inicio
+escreva("Qual grau de urgencia ?")
+    leia (atendimento)
+        se (atendimento=grautree) entao
+escreva("vá direto pro atentimento")
+
+  senao
+escreva("Faz parte do grupo preferencial?")    
+    leia (grupop)
+        se (grupop=sim) entao
+escreva("A espera do atendendimento: Preferencial")
+escreva("Qual grau de urgencia ?")
+    leia (pulseirap)
+        se ("pulseirap=grauone:azul","pulseirap=grauone:amarela")
+
+ senao
+escreva("A espera de atendimento: Normal")
+escreva("Qual grau de urgencia ?")
+    leia (pulseiran)
+        se ("pulseiran=grauone:azul","pulseiran=grauone:amarela")
+escreva("Encaminhar para retirada de senha -> Aguarde a chamada ")
+
+fimse
+fimalgoritmo

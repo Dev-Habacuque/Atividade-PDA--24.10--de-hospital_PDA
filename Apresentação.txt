@@ -1,0 +1,33 @@
+Nosso algoritmo foi criado focado na otimização das filas de espera da emergência hospitalar.
+Criado para ser usado pela organização do Hospital,
+ ele determina qual a urgência do paciente e se este se encaixa em algum grupo preferencial.
+Esse processo facilita a organização e disposição dos doentes,
+facilitando a definição de prioridade da fila e desafogando a espera por atendimento.
+
+
+DECOMPOSIÇÃO
+
+Falta de informações do paciente: Esse fator pode ocasionar aumento das filas
+por conta da necessidade de cadastramento do enfermo, como nome e RG.
+
+Falta de organização da fila por faixa etária: Grupos especiais como: Grávidas, idosos
+e crianças têm o direito de preferência em relação ao atendimento médico, devido a vulnerabilidade em relação a outros grupos
+
+Defasagem na definição do grau de urgência: O grau de urgência pode contribuir para a otimização do atendimento. Com o conhecimento devido sobre cada grau de risco que o paciente se encontra, pode se ter um maior controle sobre a prioridade de cada um dos casos.
+
+Falta de organização hospitalar com os pacientes: A classificação de faixa-etária e grau de urgência, possibilita a melhor organização e controle dos tratamentos necessários para cada doente.
+
+
+RECONHECIMENTO DE PADRÕES DE SOLUÇÃO
+
+Filas preferenciais - Pessoas de grupos especiais pré-definidos podem
+passar na frente de outras pessoas. Organização mediante senha.
+
+Grau de urgência - Dependendo da urgência definida pela triagem,
+pode se obter prioridade sobre outras pessoas. 
+
+Pulseiras de identificação - Pulseiras serão distribuídas de acordo
+com o grau de urgência, para facilitar a visualização dos determinados 
+grupos.
+
+    
