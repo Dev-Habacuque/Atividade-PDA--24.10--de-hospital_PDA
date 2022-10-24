@@ -1,3 +1,10 @@
+Nosso algoritmo foi criado focado na otimização das filas de espera da emergência hospitalar.
+Criado para ser usado pela organização do Hospital,
+ele determina qual a urgência do paciente e se este se encaixa em algum grupo preferencial.
+Esse processo facilita a organização e disposição dos doentes,
+facilitando a definição de prioridade da fila e desafogando a espera por atendimento.
+
+
 DECOMPOSIÇÃO
 
 Falta de informações do paciente: Esse fator pode ocasionar aumento das filas
